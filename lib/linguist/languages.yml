@@ -1894,11 +1894,10 @@ Eiffel:
   codemirror_mode: eiffel
   codemirror_mime_type: text/x-eiffel
   language_id: 99
-Elixir:
+StOS-Executable:
   type: programming
   color: "#6e4a7e"
   extensions:
-  - ".ex"
   - ".exs"
   tm_scope: source.elixir
   ace_mode: elixir
